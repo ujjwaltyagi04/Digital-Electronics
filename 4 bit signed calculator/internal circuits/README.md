@@ -5,4 +5,6 @@
 ![multiplier 4 bit](https://user-images.githubusercontent.com/91768976/206208702-a8511056-7403-4b1c-b9d1-c7491d3df4b1.png)
 ![signed divider](https://user-images.githubusercontent.com/91768976/206208729-f602be44-2b9d-4c6d-98b9-d2a44e85babf.png)
 ![divider 4 bit](https://user-images.githubusercontent.com/91768976/206208752-b273cd63-cb7b-446b-b46a-0af93a514b90.png)
-
+![num_selector4_8bit](https://user-images.githubusercontent.com/91768976/206209910-9ec8f0ea-7f90-4764-ad9f-6eae7f42a986.png)
+![number selector 5 bit](https://user-images.githubusercontent.com/91768976/206209919-c6bd1417-7ef4-4d6b-a286-40e954e0b9c0.png)
+![number selector 9 bit](https://user-images.githubusercontent.com/91768976/206209932-bcaea5e0-4203-41dc-a81b-40ab2fceb809.png)
