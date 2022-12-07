@@ -1,1 +1,5 @@
 ![4bit-cal](https://user-images.githubusercontent.com/91768976/206204772-dd00248b-0bb8-4dec-ab1b-cc880f56dc54.jpeg)
+![addition-waveform](https://user-images.githubusercontent.com/91768976/206206003-174772cd-c87e-4d1c-992d-51d0f51ea3e6.jpeg)
+![substraction-waveform](https://user-images.githubusercontent.com/91768976/206206025-18ec6653-4209-401c-b899-fbda33c04fce.jpeg)
+![multiplication-waveform](https://user-images.githubusercontent.com/91768976/206206048-9a03a9a8-1347-45ab-b59a-f356a0315fb8.jpeg)
+![division-waveform](https://user-images.githubusercontent.com/91768976/206206081-bbdae90d-35af-4e9e-ab3e-364bd74064b2.jpeg)
