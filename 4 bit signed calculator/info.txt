@@ -1,0 +1,10 @@
+ I have completed designing of 4 bit signed calculator using Xilinx Design Suite 14.7.
+
+[M1] [M0] - are for selecting the operation to be performed
+ 0 0 - Addition
+ 0 1 - Substraction
+ 1 0 - Multiplication
+ 1 1 - Division
+
+A & B are the 4-bit inputs.
+[S1] [S0] - decide the polarity of the inputs (i.e. negative or positive), 0- positive & 1- negative.
