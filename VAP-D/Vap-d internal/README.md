@@ -1,5 +1,5 @@
-![vol int](https://user-images.githubusercontent.com/91768976/206904529-19335cf9-b461-4400-94a6-43f94f7ad2c6.png)
-![Area int](https://user-images.githubusercontent.com/91768976/206904540-9133dce6-4c25-4b02-b11b-216630ef7eff.png)
-
-![peri int](https://user-images.githubusercontent.com/91768976/206904535-8987327d-7d3b-4891-abd6-fb429591940d.png)
-![no of diagonals](https://user-images.githubusercontent.com/91768976/206904545-c4ae451d-41c7-45db-965f-ccf7c0234a74.png)
+![a](https://user-images.githubusercontent.com/91768976/206912535-f54d123b-9a3f-487a-ac7d-a1255c565a45.png)
+![b](https://user-images.githubusercontent.com/91768976/206912539-b439f3c7-a61d-4f8e-89fd-13bd8dd7327c.png)
+![c](https://user-images.githubusercontent.com/91768976/206912540-fe953a15-9543-47f9-b670-e636af5b61cf.png)
+![d](https://user-images.githubusercontent.com/91768976/206912543-cbff3421-7829-4262-9d14-2c07b2caf67f.png)
+![e](https://user-images.githubusercontent.com/91768976/206912545-23de1e43-2944-4c25-b5fe-2067330f780c.png)
