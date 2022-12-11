@@ -1,11 +1,17 @@
-Hi there ✋ I have designed VAP-D (Volume, Area, Perimeter, number of diagonal) circuit using Xilinx Design Suite 14.7.
+Hi there ✋ I have designed VAP-D (Volume, Area, Perimeter, number of diagonal) circuit using Xilinx Design Suite 14.7.  
 
 
-[S3]	[S2]	[S1]	[S0]	-	OPERATION
- 0	 0	 0	 0	-	Volume of Cube
- 0	 0	 0	 1	-	Volume of Triangular prism
- 0	 0	 1	 0	-	Volume of Cuboid
- 0	 0	 1	 1	-	Volume of Trapezoid
+
+[S3]	[S2]	[S1]	[S0]	-	OPERATION  
+
+ 0	 0	 0	 0	-	Volume of Cube  
+
+ 0	 0	 0	 1	-	Volume of Triangular prism  
+ 
+ 0	 0	 1	 0	-	Volume of Cuboid  
+ 
+ 0	 0	 1	 1	-	Volume of Trapezoid  
+ 
  
 
  0	 1	 0	 0	-	Area of Square
