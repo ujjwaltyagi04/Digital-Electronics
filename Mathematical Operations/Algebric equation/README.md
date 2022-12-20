@@ -4,7 +4,7 @@ S0 and S1 decides the polarity of a and b.
 
  [M2]      [M1]       [M0]    -         OPERATION  
  
-  0         0          0        -          A²+ B²  
+  0            0                0        -          A²+ B²  
   
   0          0         1        -          (A+B)²  
   
