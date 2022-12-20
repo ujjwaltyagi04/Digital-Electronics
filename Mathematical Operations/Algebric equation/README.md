@@ -2,10 +2,13 @@ Hi there✋ I have designed a circuit to calculate the value of algebraic equati
 a and b are two four-bit inputs.
 S0 and S1 decides the polarity of a and b.
 
-[M2]     [M1]    [M0]    -         OPERATION
-  0         0          0        -          A²+ B²
-  0          0         1        -          (A+B)²
-  0          1         0        -          A²-B²
+ [M2]      [M1]       [M0]    -         OPERATION
+  0         0          0        -          A²+ B²  
+  
+  0          0         1        -          (A+B)²  
+  
+  0          1         0        -          A²-B²  
+  
   0          1         1        -          (A-B)²
 
   1          0         0        -          A³+B³
